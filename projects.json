@@ -1,0 +1,14 @@
+[
+  {
+    "name": "E-commerce Data Pipeline",
+    "repo": "Khanapatro/ecommerce-data-pipeline",
+    "description": "End-to-end streaming data pipeline using Kafka, Azure, Databricks, PySpark, dbt, and Airflow.",
+    "tags": ["Kafka", "Azure", "Databricks", "PySpark", "dbt", "Airflow"]
+  },
+  {
+    "name": "FinanceStock",
+    "repo": "Khanapatro/FinanceStock",
+    "description": "An Azure-based data engineering and analytics platform for batch and real-time stock-market data, using Medallion Architecture, Delta Lake, and star-schema modeling.",
+    "tags": ["Azure", "Delta Lake", "Databricks", "PySpark", "Streaming"]
+  }
+]
